@@ -1,10 +1,14 @@
 
-
+import Hello from "./hello"
 function App() {
  
 
   return (
-    <h1>Hy</h1>
+    <>
+      <Hello/>
+      <h1>Wecome To Our Website </h1>
+    </>
+    
   )
 }
 
